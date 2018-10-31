@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a-sync.iml" filepath="$PROJECT_DIR$/a-sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-bep/a-sync-bep.iml" filepath="$PROJECT_DIR$/a-sync-bep/a-sync-bep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-client/a-sync-client.iml" filepath="$PROJECT_DIR$/a-sync-client/a-sync-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-core/a-sync-core.iml" filepath="$PROJECT_DIR$/a-sync-core/a-sync-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-discovery/a-sync-discovery.iml" filepath="$PROJECT_DIR$/a-sync-discovery/a-sync-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-http-relay/a-sync-http-relay.iml" filepath="$PROJECT_DIR$/a-sync-http-relay/a-sync-http-relay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-http-relay-server/a-sync-http-relay-server.iml" filepath="$PROJECT_DIR$/a-sync-http-relay-server/a-sync-http-relay-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-parent/a-sync-parent.iml" filepath="$PROJECT_DIR$/a-sync-parent/a-sync-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-relay/a-sync-relay.iml" filepath="$PROJECT_DIR$/a-sync-relay/a-sync-relay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-repository/a-sync-repository.iml" filepath="$PROJECT_DIR$/a-sync-repository/a-sync-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a-sync-webclient/a-sync-webclient.iml" filepath="$PROJECT_DIR$/a-sync-webclient/a-sync-webclient.iml" />
+    </modules>
+  </component>
+</project>

@@ -58,9 +58,9 @@ public class Main {
         options.addOption("C", "set-config", true, "set config file for s-client");
         options.addOption("c", "config", false, "dump config");
         options.addOption("sp", "set-peers", true, "set peer, or comma-separated list of peers");
-        options.addOption("q", "query", true, "query directory server for device id");
-        options.addOption("d", "discovery", true, "discovery local network for device id");
-        options.addOption("p", "pull", true, "pull file from network");
+        //options.addOption("q", "query", true, "query directory server for device id"); -q deviceId
+        //options.addOption("d", "discovery", true, "discovery local network for device id");   -d deviceId
+        //options.addOption("p", "pull", true, "pull file from network"); -p 配置peers peers={"devices"\:[{"deviceId":"LUN6S3D-2OONZJO-WKPQFRB-2GBSJDZ-C4EHL64-IQV3KQF-KYWOW2J-DSK7CAQ", "name":"123"}]}
         options.addOption("P", "push", true, "push file to network");
         options.addOption("o", "output", true, "set output file/directory");
         options.addOption("i", "input", true, "set input file/directory");

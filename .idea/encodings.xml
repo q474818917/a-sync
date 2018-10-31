@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/a-sync-bep" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-sync-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-sync-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-sync-discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-sync-http-relay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-sync-http-relay-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-sync-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-sync-relay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-sync-repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-sync-webclient" charset="UTF-8" />
+  </component>
+</project>

@@ -79,9 +79,9 @@ public class SqlRepository implements Closeable, IndexRepository, DeviceAddressR
     private Sequencer sequencer = new IndexRepoSequencer();
     private final String jdbcUrl;
     private final HikariConfig hikariConfig;
-    private final HikariDataSource dataSource;
-//    private final ScheduledExecutorService scheduledExecutorService = Executors.newSingleThreadScheduledExecutor();
+    //    private final ScheduledExecutorService scheduledExecutorService = Executors.newSingleThreadScheduledExecutor();
     private final EventBus eventBus = new EventBus();
+    private final HikariDataSource dataSource;
     private final LoadingCache<Pair<String, String>, Optional<IndexInfo>> indexInfoByDeviceIdAndFolder = CacheBuilder.
         newBuilder().expireAfterAccess(1, TimeUnit.DAYS)
         .build(new CacheLoader<Pair<String, String>, Optional<IndexInfo>>() {

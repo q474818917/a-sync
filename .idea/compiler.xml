@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="a-sync-bep" />
+        <module name="a-sync-client" />
+        <module name="a-sync-core" />
+        <module name="a-sync-discovery" />
+        <module name="a-sync-http-relay" />
+        <module name="a-sync-http-relay-server" />
+        <module name="a-sync-relay" />
+        <module name="a-sync-repository" />
+        <module name="a-sync-webclient" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="a-sync" target="1.5" />
+      <module name="a-sync-bep" target="1.7" />
+      <module name="a-sync-client" target="1.7" />
+      <module name="a-sync-core" target="1.7" />
+      <module name="a-sync-discovery" target="1.7" />
+      <module name="a-sync-http-relay" target="1.7" />
+      <module name="a-sync-http-relay-server" target="1.7" />
+      <module name="a-sync-parent" target="1.7" />
+      <module name="a-sync-relay" target="1.7" />
+      <module name="a-sync-repository" target="1.7" />
+      <module name="a-sync-webclient" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
